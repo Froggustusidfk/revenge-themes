@@ -1,0 +1,138 @@
+{
+  "name": "YWGWYW",
+  "description": "YWGWYW converted from Aliucord, with the original custom image background.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "twixxty"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#2d2d2d"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#282828"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#282828"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#655d56"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#2d2d2d"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#282828"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#2d2d2d"
+    ],
+    "HOME_BACKGROUND": [
+      "#282828"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#393939"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#655d56"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#655d56"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#655d56"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#e8dbad32"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#e8dbad32"
+    ],
+    "HEADER_PRIMARY": [
+      "#ebdbb2"
+    ],
+    "HEADER_SECONDARY": [
+      "#abcfb0"
+    ],
+    "TEXT_PRIMARY": [
+      "#ebdbb2"
+    ],
+    "TEXT_NORMAL": [
+      "#ebdbb2"
+    ],
+    "TEXT_SECONDARY": [
+      "#abcfb0"
+    ],
+    "TEXT_MUTED": [
+      "#abcfb0"
+    ],
+    "TEXT_LINK": [
+      "#abcfb0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ebdbb2"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ebdbb2"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#abcfb0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ffffff"
+    ],
+    "CHANNEL_ICON": [
+      "#abcfb0"
+    ],
+    "MENTION_BACKGROUND": [
+      "#e8dbad32"
+    ],
+    "MENTION_FOREGROUND": [
+      "#abcfb0"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#393939"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#393939"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#393939"
+    ],
+    "EMBED_BACKGROUND": [
+      "#393939"
+    ]
+  },
+  "rawColors": {
+    "BRAND_260": "#abcfb0",
+    "BRAND_300": "#abcfb0",
+    "BRAND_330": "#abcfb0",
+    "BRAND_400": "#abcfb0",
+    "BRAND_500": "#abcfb0",
+    "BRAND_600": "#655d56",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#abcfb0",
+    "PRIMARY_400": "#ebdbb2",
+    "PRIMARY_500": "#393939",
+    "PRIMARY_600": "#282828",
+    "PRIMARY_700": "#2d2d2d"
+  },
+  "fonts": {
+    "ginto_bold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-ExtraBoldItalic.ttf",
+    "ginto_medium": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Medium.ttf",
+    "ginto_regular": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf",
+    "sourcecodepro_semibold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf",
+    "whitney_semibold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-SemiBold.ttf",
+    "whitney_medium": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Medium.ttf",
+    "whitney_bold": "https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Bold.ttf"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/twixxty/YWGWYW/refs/heads/main/image.jpg",
+    "alpha": 0.5,
+    "blur": 0.0
+  }
+}
